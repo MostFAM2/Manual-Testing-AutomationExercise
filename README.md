@@ -1,33 +1,36 @@
 # 🚀 Manual Testing Project – Automation Exercise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Testing-Manual%20Testing-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tool-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Zephyr%20Scale-00A3E0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Methodology-Agile-success?style=for-the-badge" />
+
+![Manual Testing](https://img.shields.io/badge/Testing-Manual%20Testing-blue?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Zephyr Scale](https://img.shields.io/badge/Zephyr%20Scale-Test%20Management-00A3E0?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Methodology-Agile-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
+
 </p>
 
 ---
 
-## 📖 Project Overview
+# 📖 Project Overview
 
-This project demonstrates a complete **Manual Testing workflow** for the **Automation Exercise** web application using **Jira** and **Zephyr Scale**.
+This repository showcases a complete **Manual Testing** project for the **Automation Exercise** web application using **Jira** and **Zephyr Scale**.
 
-The project follows an Agile approach by organizing the work into Epics, User Stories, Sprint Planning, Test Management, Test Execution, and Reporting.
+The project demonstrates the complete manual testing lifecycle in an Agile environment, including sprint planning, test case management, test execution, and reporting.
 
-Rather than focusing only on writing test cases, this project simulates how manual testing is managed in a real software development environment.
+A total of **26 manual test cases** were designed, organized, executed, and managed using Jira and Zephyr Scale following industry-standard QA practices.
 
 ---
 
-## 🎯 Objectives
+# 🎯 Project Objectives
 
 - Plan testing activities using Agile methodology.
 - Create Epics and User Stories in Jira.
-- Design and document manual test cases.
-- Organize test cases using Zephyr Scale.
-- Execute test cycles.
+- Design and organize manual test cases.
+- Execute test cases using Zephyr Scale.
+- Manage testing through Test Cycles.
 - Generate execution reports.
-- Demonstrate a complete QA workflow.
+- Simulate a real-world QA workflow.
 
 ---
 
@@ -37,17 +40,17 @@ Rather than focusing only on writing test cases, this project simulates how manu
 
 https://automationexercise.com
 
-Automation Exercise is an e-commerce demo website used for practicing software testing and automation.
+Automation Exercise is a demo e-commerce application widely used for learning software testing and automation.
 
 ---
 
 # 🛠 Tools & Technologies
 
 | Tool | Purpose |
-|------|----------|
+|------|---------|
 | Jira | Project Management |
 | Zephyr Scale | Test Management |
-| Agile Scrum | Project Workflow |
+| Agile Scrum | Sprint Planning |
 | Manual Testing | Functional Testing |
 
 ---
@@ -55,113 +58,171 @@ Automation Exercise is an e-commerce demo website used for practicing software t
 # 📊 Project Summary
 
 | Item | Details |
-|------|----------|
-| Testing Type | Manual Testing |
+|------|---------|
+| Project Type | Manual Testing |
+| Application | Automation Exercise |
 | Methodology | Agile Scrum |
 | Project Management | Jira |
 | Test Management | Zephyr Scale |
-| Test Cases Created | **26** |
-| Test Cycles | ✔ |
-| Test Execution | ✔ |
-| Execution Reports | ✔ |
-| Demo Video | ✔ |
+| Total Test Cases | **26** |
+| Test Execution | Completed |
+| Test Cycles | Created |
+| Reports | Generated |
 
 ---
 
-# 📋 Testing Activities
+# 📋 QA Workflow
 
-### ✔ Agile Planning
-
-- Created Epics
-- Created User Stories
-- Planned Sprint
-- Linked User Stories to Sprint
-
----
-
-### ✔ Test Case Management
-
-- Created all **26 Manual Test Cases**
-- Added Preconditions
-- Added Test Steps
-- Added Expected Results
-- Organized Test Cases in Zephyr
-- Linked Test Cases with User Stories
-
----
-
-### ✔ Test Execution
-
-- Created Test Cycle
-- Executed Test Cases
-- Recorded Execution Status
-- Reviewed Test Results
+```text
+Requirements
+      │
+      ▼
+Create Epics
+      │
+      ▼
+Create User Stories
+      │
+      ▼
+Sprint Planning
+      │
+      ▼
+Create Test Cases
+      │
+      ▼
+Execute Test Cycle
+      │
+      ▼
+Generate Reports
+```
 
 ---
 
-### ✔ Reporting
+# 📸 Project Walkthrough
 
-Generated execution reports using Zephyr Scale to monitor testing progress and execution results.
+## 📌 Jira Backlog
 
+> Created and organized the project backlog with Epics and User Stories.
 
-# 📸 Project Screenshots
+<p align="center">
+<img src="assets/Jira Backlog.png" width="900">
+</p>
 
-The repository includes screenshots demonstrating:
+---
 
-- Jira Backlog
-- Epics
-- User Stories
-- Sprint Planning
-- Zephyr Test Cases
-- Test Steps
+## 📌 Sprint Planning
+
+> Planned the testing activities by creating and managing project sprints.
+
+---
+
+## 📌 User Stories
+
+> User Stories were created and linked to the Sprint for effective Agile management.
+
+<p align="center">
+<img src="assets/user-story.png" width="900">
+</p>
+
+---
+
+## 📌 Test Case Management
+
+All **26 manual test cases** were documented in Zephyr Scale with:
+
 - Preconditions
-- Test Cycle
-- Test Execution
-- Execution Reports
+- Test Steps
+- Expected Results
+
+
+
+<p align="center">
+<img src="assets/Zephyr Structure.png" width="900">
+</p>
+<p align="center">
+<img src="assets/Test Cases.png" width="900">
+</p>
+<p align="center">
+<img src="assets/Preconditions.png" width="900">
+</p>
+
+---
+
+## 📌 Test Execution
+
+A dedicated Test Cycle was created to execute and monitor all test cases.
+
+<p align="center">
+<img src="assets/Test Cycle.png" width="900">
+</p>
+
+---
+
+## 📌 Execution Reports
+
+Execution reports were generated using Zephyr Scale to monitor testing progress and execution results.
+
+<p align="center">
+<img src="assets/reports.png" width="900">
+</p>
 
 ---
 
 # 🎥 Project Demonstration
 
-A recorded project walkthrough is included, demonstrating:
+A complete walkthrough of the project demonstrates:
 
-- Agile project setup
-- Sprint creation
-- User Story management
-- Test Case creation
-- Test execution
-- Zephyr reporting
+- Creating Epics
+- Creating User Stories
+- Sprint Planning
+- Test Case Creation
+- Test Execution
+- Test Cycle Management
+- Report Generation
+
+> 📹 **Project Demo:** *(Embed the GitHub video or add the YouTube/Drive link here.)*
 
 ---
 
 # 💡 Skills Demonstrated
 
-- Manual Testing
-- Functional Testing
-- Test Case Design
-- Test Execution
-- Test Management
-- Agile Methodology
-- Jira
-- Zephyr Scale
-- Sprint Planning
-- User Story Management
-- QA Documentation
+- ✅ Manual Testing
+- ✅ Functional Testing
+- ✅ Agile Methodology
+- ✅ Jira
+- ✅ Zephyr Scale
+- ✅ Test Case Design
+- ✅ Test Case Management
+- ✅ Test Execution
+- ✅ Sprint Planning
+- ✅ User Story Management
+- ✅ QA Documentation
+- ✅ Test Reporting
+
 
 ---
 
-# 📚 Key Learning Outcomes
+# 📚 Key Takeaways
 
-Through this project, I gained practical experience in managing the complete manual testing lifecycle using industry-standard tools and Agile practices.
+This project strengthened my understanding of:
 
-The project strengthened my understanding of test planning, documentation, execution, reporting, and collaborative QA workflows.
+- Manual Test Planning
+- Test Design Techniques
+- Agile Testing Workflow
+- Test Management with Zephyr Scale
+- Jira Project Organization
+- Test Execution & Reporting
+- End-to-End QA Documentation
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Mostafa Mahmoud**
 
-Software Test Engineer
+**Software Test Engineer**
 
-📌 ISTQB® Certified Tester Foundation Level (CTFL v4.0)
+🏅 ISTQB® Certified Tester Foundation Level (CTFL v4.0)
+
+---
+
+⭐ If you found this project interesting, feel free to explore my other Software Testing repositories.
