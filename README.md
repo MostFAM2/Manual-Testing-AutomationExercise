@@ -4,7 +4,7 @@
 
 ![Manual Testing](https://img.shields.io/badge/Testing-Manual%20Testing-blue?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Zephyr Scale](https://img.shields.io/badge/Zephyr%20Scale-Test%20Management-00A3E0?style=for-the-badge)
+![Zephyr](https://img.shields.io/badge/Zephyr%20Scale-Test%20Management-00A3E0?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Methodology-Agile-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
 
@@ -14,7 +14,7 @@
 
 # 📖 Project Overview
 
-This repository showcases a complete **Manual Testing** project for the **Automation Exercise** web application using **Jira** and **Zephyr Scale**.
+This repository showcases a complete **Manual Testing** project for the **Automation Exercise** web application using **Jira** and **Zephyr**.
 
 The project demonstrates the complete manual testing lifecycle in an Agile environment, including sprint planning, test case management, test execution, and reporting.
 
@@ -49,7 +49,7 @@ Automation Exercise is a demo e-commerce application widely used for learning so
 | Tool | Purpose |
 |------|---------|
 | Jira | Project Management |
-| Zephyr Scale | Test Management |
+| Zephyr | Test Management |
 | Agile Scrum | Sprint Planning |
 | Manual Testing | Functional Testing |
 
@@ -63,7 +63,7 @@ Automation Exercise is a demo e-commerce application widely used for learning so
 | Application | Automation Exercise |
 | Methodology | Agile Scrum |
 | Project Management | Jira |
-| Test Management | Zephyr Scale |
+| Test Management | Zephyr |
 | Total Test Cases | **26** |
 | Test Execution | Completed |
 | Test Cycles | Created |
@@ -127,7 +127,7 @@ Generate Reports
 
 ## 📌 Test Case Management
 
-All **26 manual test cases** were documented in Zephyr Scale with:
+All **26 manual test cases** were documented in Zephyr with:
 
 - Preconditions
 - Test Steps
@@ -179,7 +179,7 @@ A complete walkthrough of the project demonstrates:
 - Test Cycle Management
 - Report Generation
 
-> 📹 **Project Demo:** *(Embed the GitHub video or add the YouTube/Drive link here.)*
+> 📹 **Project Demo:** *https://youtu.be/f533PoldzeI*
 
 ---
 
@@ -189,7 +189,7 @@ A complete walkthrough of the project demonstrates:
 - ✅ Functional Testing
 - ✅ Agile Methodology
 - ✅ Jira
-- ✅ Zephyr Scale
+- ✅ Zephyr
 - ✅ Test Case Design
 - ✅ Test Case Management
 - ✅ Test Execution
@@ -208,7 +208,7 @@ This project strengthened my understanding of:
 - Manual Test Planning
 - Test Design Techniques
 - Agile Testing Workflow
-- Test Management with Zephyr Scale
+- Test Management with Zephyr
 - Jira Project Organization
 - Test Execution & Reporting
 - End-to-End QA Documentation
